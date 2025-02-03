@@ -120,7 +120,7 @@
     "front-matter": "4.0.2",
     "jest": "27.4.5",
     "jest-axe": "5.0.1",
-    "jest-styled-components": "6.3.4",
+    "jest-styled-components": "7.2.0",
     "jscodeshift": "0.13.0",
     "lodash.isempty": "4.4.0",
     "lodash.isobject": "3.0.2",
